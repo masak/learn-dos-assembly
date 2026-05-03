@@ -4,6 +4,9 @@ A self-learning course for 386 assembly language in DOS.
 
 ## Phase 1
 
+_Goal: Get comfortable with the tools, basic instructions, and the DOS
+environment._
+
 | No. | Description          |
 |-----|----------------------|
 |  01 | Hello, DOS!          |
@@ -18,6 +21,8 @@ A self-learning course for 386 assembly language in DOS.
 |  10 | Password gate        |
 
 ## Phase 2
+
+_Goal: Understand memory, subroutines, andd file I/O._
 
 | No. | Description        |
 |-----|--------------------|
@@ -34,6 +39,8 @@ A self-learning course for 386 assembly language in DOS.
 
 ## Phase 3
 
+_Goal: Graphics, sound, and hardware-level programming._
+
 | No. | Description             |
 |-----|-------------------------|
 |  21 | Pixel pusher            |
@@ -48,6 +55,8 @@ A self-learning course for 386 assembly language in DOS.
 |  30 | Memory resident hotkeys |
 
 ## Phase 4
+
+_Goal: Complex projects requiring research, design, and debugging skills._
 
 | No. | Description        |
 |-----|--------------------|
