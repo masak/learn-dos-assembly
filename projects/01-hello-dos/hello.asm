@@ -11,12 +11,12 @@ start:
     int 0x21            ; print string
 
     mov ah, 2
-    mov dl, 0x0a
+    mov dl, 0x0d
     int 0x21            ; print carriage return
 
     mov ah, 2
-    mov dl, 0x0d
-    int 0x21            ; print newline
+    mov dl, 0x0a
+    int 0x21            ; print line feed
 
     mov ax, 0x4C00
     int 0x21            ; exit with exit code 0
