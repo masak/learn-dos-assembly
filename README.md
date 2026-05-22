@@ -22,7 +22,7 @@ environment._
 
 ## Phase 2
 
-_Goal: Understand memory, subroutines, andd file I/O._
+_Goal: Understand memory, subroutines, and file I/O._
 
 | No. | Description        |
 |-----|--------------------|
